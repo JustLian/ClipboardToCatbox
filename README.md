@@ -8,7 +8,8 @@ Simple script for uploading image from clipboard to [Catbox](https://catbox.moe)
 
 ## Installation
 1. `git clone https://github.com/JustLian/ClipboardToCatbox`
-2. `pip install -r requirements.txt`
+2. `cd ClipboardToCatbox`
+3. `pip install -r requirements.txt`
 
 ## How to run script in background (*Windows only*)
 Execute `run_in_background.vbs` file.
