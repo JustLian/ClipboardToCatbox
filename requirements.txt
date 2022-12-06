@@ -1,0 +1,5 @@
+pydub
+pyupload
+pystray
+pillow
+pyperclip
